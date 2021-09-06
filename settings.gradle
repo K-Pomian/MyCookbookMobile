@@ -1,0 +1,2 @@
+rootProject.name = "MyCookbookMobile"
+include ':app'

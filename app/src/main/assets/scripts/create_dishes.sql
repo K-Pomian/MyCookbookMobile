@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS dishes(
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	name TEXT,
+	description TEXT,
+	UNIQUE(name)
+);
